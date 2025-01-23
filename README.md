@@ -17,4 +17,20 @@ i did not get any donations of any kind from the project even tho i gave that as
 I have a new project in progress, but for the time being enjoy the image converter project with the lunarwolf branding, its built from the ground up, heres the link: https://github.com/LunarWolf-Browser-Projects/LunarWolf-image-converter
 
 # another update
-i have realized there where more issues in my old project that had been forked to others, to all the licensers of wexond and google, i am so so so sorry, i hope you find it i your hearts to forgive me :(, i will will double check licensing and all from now on, once again i am sorry, please spare me, all i wanted to do was help and create something, i had no intent of stealing anything or making people mad at me, to try and fix more of what i have caused, i have looked in the active forks of the project and forked there fork, then i replaced the problamatic files with there original ones and removed some problamatic stuff as well.
+I have come to realize there were additional issues in my previous project, which had been forked by others. To all licensors of Wexond and Google, I sincerely apologize. I hope you can find it in your hearts to forgive me. Moving forward, I will double-check all licensing requirements to ensure compliance. Once again, I am deeply sorry.
+
+My intent was never to steal anything or upset anyone—I simply wanted to help and create something meaningful. To address the problems I’ve caused, I reviewed active forks of the project and forked their versions. I replaced the problematic files with their original ones and removed other problematic elements.
+
+Additionally, I recalled that my last project, before officially transitioning to this repository and renaming it to LunarWolf, was a fork within the main repository rather than being a standalone repository (though it was also a forked repo).
+
+i really do want to put this behind me as of moving forward and take this as an oppertunity to never make these kind of decisions again, once again, i am deeply regretful and sorry for everything
+
+i am forking the other users fork of my old fork, and fixing there issues in it
+
+to others who may be reading this, the reasioning for all the unorginizing in this README is because i am still learning in terms of this whole situation, and for every problem that was there (hopefully i have fully done what i can at this point) to fix anything and to show how truly regretful and sorry i am for this whole delima, and i really want to move forward, but all of this is effecting me mentally, so i am doing what i can to fix everything that i think of that could go wrong
+
+as iv said many times, i am deeply deeply sorry :(
+
+NOTE: this is what i have documented about this whole situation so sorry if its unorginized and i wanted to make this public to show i really do care.
+
+Thank you for your understanding.
