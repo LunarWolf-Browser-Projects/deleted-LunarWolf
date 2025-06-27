@@ -34,3 +34,7 @@ as iv said many times, i am deeply deeply sorry :(
 NOTE: this is what i have documented about this whole situation so sorry if its unorginized and i wanted to make this public to show i really do care.
 
 Thank you for your understanding.
+
+# is this the end?
+
+No it is only a new beginnign for me and everything i stand for, i am deeply sorry for the other bits of code i had used in here as i somewhat stated throughout this letter, but now i am making it that much more clearer.
