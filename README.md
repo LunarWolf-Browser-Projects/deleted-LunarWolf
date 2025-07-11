@@ -1,3 +1,15 @@
+## LunarWolf is Back
+
+LunarWolf is back, and on a good standing, if theres still any issues, i am a developer who cares, i learn and grow everyday, i will look into whatever goes on to better myself and the community because i deeply respect the open source.
+
+if you wish to view the project its under this org: https://github.com/VQMSoftware/LunarWolf-Browser-Desktop
+
+> What sets the new version apart from the old
+>
+> the old version had questionable things, the enw one is build off wexond base BUT its the older ACTUALLY open source commit, this time iv made sure not to just go with it, i looked first hand.
+
+to show my transparency i will still keep the note up
+
 # This project is no longer active
 
 I deeply appreciated the BrowserBase project and the work its developers put into it. When I first started working on this project, I didn’t fully understand or look into the licensing terms as thoroughly as I do now. Over time, I’ve come to better understand the importance of these aspects, and this experience has been a significant learning opportunity for me.
